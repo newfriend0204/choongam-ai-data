@@ -1,0 +1,19 @@
+{
+  "dataset_id": "choongam-riro",
+  "schema_version": 4,
+  "generated_at": "2026-09-11T23:57:21+09:00",
+  "sha256": "908e82eae51ad1bf3e2379b72926c85b3d721807ceff94b310609ab5d2ef7904",
+  "size": 506647,
+  "encrypted_size": 506679,
+  "data_file": "dataset.enc",
+  "media_root": "media",
+  "media_suffix": ".enc",
+  "key_id": "v1",
+  "encryption": {
+    "algorithm": "AES-256-GCM",
+    "format": "CAI1",
+    "nonce_bytes": 12,
+    "tag_bytes": 16,
+    "aad": "choongam-ai-data:v1"
+  }
+}
